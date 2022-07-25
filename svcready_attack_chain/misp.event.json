@@ -7,7 +7,7 @@
         "org_id": "1",
         "date": "2022-06-30",
         "threat_level_id": "3",
-        "info": "A closer look at the SVCReady attack chain",
+        "info": "Attack Chain Déjà-vu: The infection vector used by SVCReady, Gozi and IcedID",
         "published": false,
         "uuid": "d4c08374-346b-4075-9327-48a2a7f0cc3e",
         "attribute_count": "329",
