@@ -6,9 +6,9 @@ See our accompanying [blog post](https://medium.com/@DCSO_CyTec) for more detail
 
 The tooling consists of 3 separate tools:
 
-- Windows tool to fetch the necessary system specs to generate bot ID and AES key
-- Python3 script to generate the bot ID and AES key
-- Windows tool written in Delphi to decrypt log files
+- [Windows tool](darkgate_hwid.cpp) to fetch the necessary system specs to generate bot ID and AES key
+- [Python3 script](darkgate_gen_hwid.py) to generate the bot ID and AES key
+- [Windows tool written in Delphi](darkgate_decrypt_keylog.lpr) to decrypt log files
 
 ## Building ##
 
