@@ -84,6 +84,6 @@ Parsing Config...
 
 ## SafePay decryption test tooling
 
-In order to analyze the file encryption we wrote tooling to patch in an ECC key of our choice. You can find the code in patch_key.py along with a pre-generated ECC key pair.
+In order to analyze the file encryption we wrote tooling to patch in an ECC key of our choice. You can find the code in [patch_key.py](https://github.com/DCSO/Blog_CyTec/blob/main/2025_05__safepay/patch_key.py) along with a pre-generated ECC key pair.
 
-Files encrypted with this patched key can be decrypted (more or less likely) using the experimental script decrypt_file.py. It may not correctly implement the chunk stepping as it more served as a proof of concept for understanding the key material handling.
+Files encrypted with this patched key can be decrypted (more or less likely) using the experimental script [decrypt_file.py](https://github.com/DCSO/Blog_CyTec/blob/main/2025_05__safepay/decrypt_file.py). It may not correctly implement the chunk stepping as it more served as a proof of concept for understanding the key material handling.
