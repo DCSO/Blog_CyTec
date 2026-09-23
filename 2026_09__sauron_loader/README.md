@@ -2,7 +2,7 @@
 
 ## Config extraction
 
-We have written [a Python script](./2026_09__sauron_loader/get_config.py) to extract the embedded configuration found in unpacked Sauron Loader samples.
+We have written [a Python script](./get_config.py) to extract the embedded configuration found in unpacked Sauron Loader samples.
 
 Example usage:
 
@@ -37,4 +37,4 @@ $ python3 get_config.py sauron.unpacked.dll
 
 ## IoCs
 
-We have provided related indicators of compromise in a [MISP event](./2026_09__sauron_loader/misp.event.json)
+We have provided related indicators of compromise in a [MISP event](./misp.event.json)
