@@ -27,10 +27,10 @@ $ python3 get_config.py sauron.unpacked.dll
   "group_id": "test_bot_group_uid",
   "build_id": "test_build_tag_uid",
   "c2_urls": [
-    "https://api.namsb-show.com",
-    "https://api.quinlantours.com",
-    "https://api.virtual-magic.com",
-    "https://api.lahaina-shores.com"
+    "...",
+    "...",
+    "...",
+    "..."
   ]
 }
 ```
